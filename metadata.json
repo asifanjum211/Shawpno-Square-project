@@ -1,0 +1,6 @@
+{
+  "name": "Protidiner Bazaar",
+  "description": "A professional Bangladeshi online grocery supermarket web app inspired by Shwapno Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
